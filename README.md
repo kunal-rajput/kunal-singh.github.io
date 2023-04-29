@@ -1,2 +1,2 @@
-# kunal-rajput.github.io
+# kunal-singh.github.io
 Portfolio
